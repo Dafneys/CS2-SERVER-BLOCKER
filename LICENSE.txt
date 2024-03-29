@@ -1,4 +1,4 @@
-SUPERB LICENSE 1.0
+SUPERB LICENSE 1.0.1
 
 Copyright © 2024 Dafney
 All rights reserved.
@@ -22,6 +22,13 @@ Premium Contribution License:
  * Failure to comply with a takedown request of the Software from the Author within a reasonable timeframe constitutes acceptance of the Premium Contribution License.
  * The platform or website will be liable for a fee of 1000 USD per month the Software remains available for download, in addition to a fee of 1 USD per download.
  * The Author reserves the right to issue DMCA takedown notices to platforms or websites hosting the Software without permission.
+
+Limitation of Liability:
+ * The Author shall not be liable for any internet traffic fees incurred by users through the download, installation, or use of the Software.
+ * Users are solely responsible for any costs or charges imposed by their internet service providers or other entities related to the transmission of data while using the Software.
+
+Assumption of Responsibility:
+ * By using the Software, users acknowledge and accept that they may incur internet traffic fees and agree to bear all associated costs.
 
 Disclaimer of Liability:
  * The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.

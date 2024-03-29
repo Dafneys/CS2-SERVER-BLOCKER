@@ -1,4 +1,4 @@
-# CS2-SERVER-BLOCKER
+## CS2-SERVER-BLOCKER
 Counter-Strike 2 Server Blocker
 
 ![GitHub Logo](example.png)
@@ -10,14 +10,14 @@ Counter-Strike 2 Server Blocker
 ## Description
 Lets you block or unblock selected CS2 servers.
 
-## Usage
+### Usage
 Start Software as Administrator. Click the server(s) you want to block or unblock.
 
-## What the Software does
+### What it does
 The Software fetch the official server list and pings them. It will modify firewall rules.
 
-## Anti-Virus
+### Anti-Virus
 The Software may cause false-positive and does not work with custom firewalls.
 
-## License
+### License
 The Software uses [SUPERB License](LICENSE.txt). 

@@ -4,13 +4,13 @@ Copyright (c) 2024 Dafney
 
 All rights reserved.
 
-This document pertains to this file "CS2-SERVER-BLOCKER.exe" for personal use only. Any alterations, distribution, or sales of the file are strictly prohibited. The file may only be downloaded from its original GitHub source "https://github.com/Dafneys/CS2-SERVER-BLOCKER/".
+This document pertains to the file "CS2-SERVER-BLOCKER.exe" for personal use only. Any alterations, distribution, or sales of the file are strictly prohibited. The file may only be downloaded from its original GitHub source "https://github.com/Dafneys/CS2-SERVER-BLOCKER/".
 
 Any usage of the file must be accompanied by an acknowledgment of "Dafney" as the original creator.
 
 Unauthorized posting or uploading of the file to any site without written permission by "Dafney" is strictly prohibited. Violators will be required to pay a single license fee of $50,000 USD.
 
-In the event that the file is uploaded to a platform and a request for its removal by Dafney is ignored or denied by the platform, the platform will be deemed to have opted for a Premium Contribution license. Premium Contribution license will be charged at a rate of $1,000 USD per day and $1 USD per download and must be payed to Dafney monthly.
+In the event that the file is uploaded to a platform and a request for its removal by Dafney is ignored or denied by the platform, the platform will be deemed to have opted for a Premium Contribution license. Premium Contribution license will be charged at a rate of $1,000 USD per day and $1 USD per download and must be paid to Dafney monthly.
 
 Dafney retains the right to issue a DMCA takedown of the file and to revoke or suspend the Premium Contribution license at any time.
 

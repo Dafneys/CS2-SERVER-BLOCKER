@@ -1,17 +1,35 @@
-LICENSE
+SUPERB LICENSE 1.0
 
-Copyright (c) 2024 Dafney
-
+Copyright © 2024 Dafney
 All rights reserved.
 
-This document pertains to the file "CS2-SERVER-BLOCKER.exe" for personal use only. Any alterations, distribution, or sales of the file are strictly prohibited. The file may only be downloaded from its original GitHub source "https://github.com/Dafneys/CS2-SERVER-BLOCKER/".
+Definitions
+ * Software: The term "Software" refers to the program(s) covered by this license.
+ * Author: The term "Author" refers to the creator of the Software, who holds all rights to the Software.
 
-Any usage of the file must be accompanied by an acknowledgment of "Dafney" as the original creator.
+Terms and Conditions
 
-Unauthorized posting or uploading of the file to any site without written permission by "Dafney" is strictly prohibited. Violators will be required to pay a single license fee of $50,000 USD.
+Usage Restrictions:
+ * Users are strictly prohibited from modifying, adapting, or changing the name of any file within the Software.
+ * Users are forbidden from copying, reproducing, or sharing the Software in any form except through downloading it from the official GitHub project page designated by the Author.
 
-In the event that the file is uploaded to a platform and a request for its removal by Dafney is ignored or denied by the platform, the platform will be deemed to have opted for a Premium Contribution license. Premium Contribution license will be charged at a rate of $1,000 USD per day and $1 USD per download and must be paid to Dafney monthly.
+Upload License Fee:
+ * Any user wishing to upload the Software to any platform or website must obtain written permission from the Author and pay a one-time upload license fee of 5000 USD.
+ * Any usage of the file must be accompanied by an acknowledgment of the Author as the original creator.
 
-Dafney retains the right to issue a DMCA takedown of the file and to revoke or suspend the Premium Contribution license at any time.
+Premium Contribution License:
+ * Platforms or websites hosting the Software without explicit permission from the Author will be deemed to have opted into a Premium Contribution License.
+ * Failure to comply with a takedown request of the Software from the Author within a reasonable timeframe constitutes acceptance of the Premium Contribution License.
+ * The platform or website will be liable for a fee of 1000 USD per month the Software remains available for download, in addition to a fee of 1 USD per download.
+ * The Author reserves the right to issue DMCA takedown notices to platforms or websites hosting the Software without permission.
 
-For any permissions related to this file, please contact Dafney.
+Disclaimer of Liability:
+ * The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+ * In no event shall the Authors or Copyright Holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+Disclaimer of Responsibility:
+ * The Author shall not be responsible for any consequences resulting from the use or misuse of the Software.
+ * Users assume all risk and responsibility for any damages or losses incurred through the use of the Software.
+
+Conclusion
+ * By using or sharing the Software, you acknowledge and accept the restrictions and terms outlined herein.

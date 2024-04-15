@@ -16,7 +16,7 @@ Lets you block or unblock selected CS2 servers.
 Start Software as Administrator. Click the server(s) you want to block or unblock.
 
 ### What it does
-The Software fetch the official server list and pings them. It will modify firewall rules.
+It modifies firewall rules.
 
 ### Anti-Virus
 The Software may cause false-positive and does not work with custom firewalls.

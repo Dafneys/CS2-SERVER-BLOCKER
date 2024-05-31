@@ -5,9 +5,7 @@ Counter-Strike 2 Server Blocker
 
 ## Download
 
-If your Antivirus blocking everything you can try the Mini version, it will not fetch latest server ip.
-
-[Release v2.1 (Mini)](https://github.com/Dafneys/CS2-SERVER-BLOCKER/releases/download/v2.1/CS2-SERVER-BLOCKER-MINI-v2.1.rar)
+[Release v2.2](https://github.com/Dafneys/CS2-SERVER-BLOCKER/releases/download/v2.2/CS2-SERVER-BLOCKER-MINI-v2.2.rar)
 
 ## Description
 Lets you block or unblock selected CS2 servers.

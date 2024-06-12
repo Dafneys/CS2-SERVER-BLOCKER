@@ -5,7 +5,7 @@ Counter-Strike 2 Server Blocker
 
 ## Download
 
-[Release v2.2](https://github.com/Dafneys/CS2-SERVER-BLOCKER/releases/download/v2.2/CS2-SERVER-BLOCKER-MINI-v2.2.rar)
+[Release v2.3](https://github.com/Dafneys/CS2-SERVER-BLOCKER/releases/download/v2.3/CS2-SERVER-BLOCKER-MINI-v2.3.rar)
 
 ## Description
 Lets you block or unblock selected CS2 servers.

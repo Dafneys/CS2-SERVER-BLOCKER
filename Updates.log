@@ -1,6 +1,0 @@
-v2.1 Mini
-+ Update for new Warsaw server
-+ Added Reset button
-
-v2.0 Mini
-+ Added mini version, it does not fetch latest server ip to combat the false-positive from AV.

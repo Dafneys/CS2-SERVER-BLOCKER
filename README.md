@@ -5,11 +5,12 @@ Counter-Strike 2 Server Blocker
 
 ## Download
 
-[Latest Release](https://github.com/Dafneys/CS2-SERVER-BLOCKER/releases/download/v2.3.2/CS2-SERVER-BLOCKER-v2.3.2.rar)
+[Latest Release](https://github.com/Dafneys/CS2-SERVER-BLOCKER/releases/download/v3.0.n/CS2-SERVER-BLOCKER-v3.0.n.rar)
 
 
 ## Description
 Lets you block or unblock selected CS2 servers.
+Autofetches the latest CS2 Server IPs.
 
 ### Usage
 Start Software as Administrator. Click the server(s) you want to block or unblock.
